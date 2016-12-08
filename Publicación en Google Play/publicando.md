@@ -209,7 +209,6 @@ Aquí es donde se configuran algunos Servicios y APIS de Terceros, como FIREBASE
 
 Una vez que tengas todos los pasos obligatorios mencioandos anteriormente, podrás publicar tu aplicación. De no ser posible, puedes seleccionar donde dice: Why can't I Publish? y Google Play Console te dirá que omitiste.
 
-![](34.png)
 
 
 En unas horas o dias, tu aplciación estara lista en la tienda, recibirars la notificación por correo.
